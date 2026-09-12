@@ -1,10 +1,14 @@
-# 👋 Hey, I'm Prashant Chandra
-
 <div align="center">
 
-### 💻 Java Developer | Spring Boot | React | Backend Development
+# 👋 Hey, I'm **Prashant Chandra**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Spring+Boot+%7C+REST+APIs+%7C+JWT;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" />
+### 💻 Java Developer • Spring Boot • REST APIs • React
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Spring+Boot+%7C+REST+APIs+%7C+JWT;Backend+%26+Full+Stack+Development;Building+Scalable+Applications+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,git,github,docker&perline=7" alt="Tech Stack"/>
 
 </div>
 
@@ -12,92 +16,52 @@
 
 ## 🚀 About Me
 
-```java
-public class PrashantChandra {
+I'm a **self-motivated Java Developer** passionate about building secure, scalable, and maintainable applications.
 
-    String role = "Java Developer";
-    
-    String[] backend = {
-        "Core Java",
-        "Spring Boot",
-        "REST APIs",
-        "Spring Security",
-        "JWT"
-    };
+* ☕ Strong foundation in **Core Java**
+* 🌱 Backend development with **Spring Boot**
+* 🔗 Building **RESTful APIs**
+* 🔐 Authentication & authorization using **Spring Security + JWT**
+* ⚛️ Frontend development with **React**
+* 🗄️ Database experience with **MySQL & PostgreSQL**
+* ☁️ Experience with **Supabase, Firebase & cloud deployment**
+* 🛠️ API testing and development using **Postman**
+* 🎨 UI and design experience with **Figma**
+* 📚 Continuously learning new technologies and improving my development skills
 
-    String[] frontend = {
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Tailwind CSS"
-    };
-
-    String[] databases = {
-        "MySQL",
-        "PostgreSQL"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Postman",
-        "Figma"
-    };
-
-    String mindset = "Always learning, always building 🚀";
-}
-```
-
-💻 Self-motivated **Java Developer** with a strong foundation in **Core Java, Spring Boot, RESTful APIs, and backend development**.
-
-🔐 Experienced in building secure applications using **Spring Security and JWT** for authentication and authorization.
-
-🌐 Comfortable working across the stack with **React, HTML, CSS, JavaScript, and Tailwind CSS**.
-
-🗄️ Experienced with **MySQL and PostgreSQL**, including database design and data management.
-
-🚀 Passionate about solving problems, learning new technologies, and building scalable applications.
+> 💡 **My goal:** Build reliable software, solve real-world problems, and keep growing as a developer.
 
 ---
 
-# 🧠 Tech Stack
+# 🧑‍💻 My Development Stack
+
+<div align="center">
 
 ### ☕ Backend
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
-
-</div>
+<br><br>
 
 ### ⚛️ Frontend
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-</div>
+<br><br>
 
 ### 🗄️ Database
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-</div>
+<br><br>
 
 ### ☁️ Cloud & Deployment
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,netlify" />
 
-</div>
+<br><br>
 
 ### 🛠️ Tools
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
 
@@ -105,13 +69,31 @@ public class PrashantChandra {
 
 ---
 
-# 📊 GitHub Stats
+# 🔐 Backend Expertise
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chandraprashant482&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+| Technology             | What I Work With                              |
+| ---------------------- | --------------------------------------------- |
+| ☕ **Java**             | OOP, Collections, Exception Handling, Streams |
+| 🌱 **Spring Boot**     | REST APIs, Dependency Injection, MVC          |
+| 🔐 **Spring Security** | Authentication & Authorization                |
+| 🪪 **JWT**             | Token-based authentication                    |
+| 🗄️ **MySQL**          | Database design & queries                     |
+| 🐘 **PostgreSQL**      | Relational database management                |
+| 🔗 **REST API**        | API design & integration                      |
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprashant482&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chandraprashant482&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprashant482&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -121,39 +103,108 @@ public class PrashantChandra {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chandraprashant482&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=chandraprashant482&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+# 📈 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprashant482&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprashant482&theme=tokyo-night&hide_border=true&radius=15" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+> ⚠️ **For the snake animation:**
+> This requires the GitHub Action from `platane/snk` to generate the SVG. If you haven't configured that Action yet, the image will not appear.
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandraprashant482&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📌 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chandraprashant482&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<a href="https://github.com/chandraprashant482?tab=repositories">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandraprashant482&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/chandraprashant482?tab=repositories">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandraprashant482&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+
+</a>
 
 </div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+
+### 🚀 Improving my knowledge in
+
+**Microservices • Docker • Cloud • System Design • Advanced Spring Boot**
+
+</div>
+
+---
+
+# 🎯 Developer Journey
+
+```text
+        ☕ Java
+          │
+          ▼
+    🌱 Spring Boot
+          │
+          ▼
+     🔗 REST APIs
+          │
+          ▼
+   🔐 Spring Security
+          │
+          ▼
+        🪪 JWT
+          │
+          ▼
+    🗄️ Databases
+          │
+          ▼
+      ⚛️ React
+          │
+          ▼
+    🚀 Full Stack
+          │
+          ▼
+   ☁️ Cloud & DevOps
+```
 
 ---
 
@@ -161,7 +212,7 @@ public class PrashantChandra {
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=chandraprashant482&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=chandraprashant482&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -169,8 +220,12 @@ public class PrashantChandra {
 
 <div align="center">
 
-### ⚡ "Always Learning. Always Building. Always Improving."
+### 💫 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer" />
+### ☕ Code • 🚀 Build • 📚 Learn • 🔥 Repeat
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=120&section=footer" alt="Footer"/>
 
 </div>
