@@ -71,19 +71,15 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 
 # 🔐 Backend Expertise
 
-<div align="center">
-
-| Technology             | What I Work With                              |
+| Technology             | Skills                                        |
 | ---------------------- | --------------------------------------------- |
 | ☕ **Java**             | OOP, Collections, Exception Handling, Streams |
 | 🌱 **Spring Boot**     | REST APIs, Dependency Injection, MVC          |
 | 🔐 **Spring Security** | Authentication & Authorization                |
-| 🪪 **JWT**             | Token-based authentication                    |
-| 🗄️ **MySQL**          | Database design & queries                     |
-| 🐘 **PostgreSQL**      | Relational database management                |
-| 🔗 **REST API**        | API design & integration                      |
-
-</div>
+| 🪪 **JWT**             | Token-Based Authentication                    |
+| 🗄️ **MySQL**          | Database Design & SQL Queries                 |
+| 🐘 **PostgreSQL**      | Relational Database Management                |
+| 🔗 **REST APIs**       | API Design & Integration                      |
 
 ---
 
@@ -92,6 +88,8 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=chandraprashant482&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<br><br>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprashant482&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
@@ -109,68 +107,15 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprashant482&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
-> ⚠️ **For the snake animation:**
-> This requires the GitHub Action from `platane/snk` to generate the SVG. If you haven't configured that Action yet, the image will not appear.
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandraprashant482&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/chandraprashant482?tab=repositories">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandraprashant482&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-
-</a>
-
-<a href="https://github.com/chandraprashant482?tab=repositories">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandraprashant482&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
-### 🚀 Improving my knowledge in
+<br><br>
 
-**Microservices • Docker • Cloud • System Design • Advanced Spring Boot**
+**Microservices • Docker • Kubernetes • AWS • System Design • Advanced Spring Boot**
 
 </div>
 
@@ -178,32 +123,35 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 
 # 🎯 Developer Journey
 
-```text
-        ☕ Java
-          │
-          ▼
-    🌱 Spring Boot
-          │
-          ▼
-     🔗 REST APIs
-          │
-          ▼
+```text id="8nww0v"
+       ☕ Core Java
+            │
+            ▼
+      🌱 Spring Boot
+            │
+            ▼
+       🔗 REST APIs
+            │
+            ▼
    🔐 Spring Security
-          │
-          ▼
-        🪪 JWT
-          │
-          ▼
-    🗄️ Databases
-          │
-          ▼
-      ⚛️ React
-          │
-          ▼
-    🚀 Full Stack
-          │
-          ▼
-   ☁️ Cloud & DevOps
+            │
+            ▼
+          🪪 JWT
+            │
+            ▼
+      🗄️ Databases
+            │
+            ▼
+        ⚛️ React
+            │
+            ▼
+     🚀 Full Stack
+            │
+            ▼
+   🐳 Microservices
+            │
+            ▼
+     ☁️ Cloud / AWS
 ```
 
 ---
@@ -222,7 +170,7 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 
 ### 💫 Thanks for visiting my profile!
 
-### ☕ Code • 🚀 Build • 📚 Learn • 🔥 Repeat
+**☕ Code • 🚀 Build • 📚 Learn • 🔥 Repeat**
 
 <br>
 
