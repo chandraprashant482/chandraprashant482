@@ -87,21 +87,7 @@ I'm a **self-motivated Java Developer** passionate about building secure, scalab
 
 ---
 
-# 🐍 Contribution Activity
 
-<div align="center">
-
-### Watch my contributions come alive! 🚀
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 # 📚 Currently Learning
 
