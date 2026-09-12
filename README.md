@@ -1,55 +1,176 @@
-# 💫 About Me
+# 👋 Hey, I'm Prashant Chandra
 
-👋 Hello, I'm **Prashant Chandra**  
+<div align="center">
 
-💻 I am a **self-motivated Java Developer** with a strong foundation in **Core Java, Spring Boot, and RESTful APIs**.  
+### 💻 Java Developer | Spring Boot | React | Backend Development
 
-🔐 I have hands-on experience in building **secure and scalable backend applications** using **Spring Security & JWT** for authentication and authorization.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Spring+Boot+%7C+REST+APIs+%7C+JWT;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" />
 
-🌐 I am also skilled in **frontend technologies** like **HTML, CSS, and React**, along with cloud tools like **Supabase**.  
-
-🗄️ I have worked with databases such as **MySQL** and **PostgreSQL**, and I am comfortable designing schemas and managing data efficiently.  
-
-🚀 I enjoy solving problems and continuously learning new technologies to build better and more impactful applications.  
-
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-### 👨‍💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+```java
+public class PrashantChandra {
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    String role = "Java Developer";
+    
+    String[] backend = {
+        "Core Java",
+        "Spring Boot",
+        "REST APIs",
+        "Spring Security",
+        "JWT"
+    };
 
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    String[] frontend = {
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+    };
 
-### ☁️ Cloud & Tools
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+    String[] databases = {
+        "MySQL",
+        "PostgreSQL"
+    };
 
-### 🛠️ Tools & Others
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+    String[] tools = {
+        "Git",
+        "GitHub",
+        "Postman",
+        "Figma"
+    };
+
+    String mindset = "Always learning, always building 🚀";
+}
+```
+
+💻 Self-motivated **Java Developer** with a strong foundation in **Core Java, Spring Boot, RESTful APIs, and backend development**.
+
+🔐 Experienced in building secure applications using **Spring Security and JWT** for authentication and authorization.
+
+🌐 Comfortable working across the stack with **React, HTML, CSS, JavaScript, and Tailwind CSS**.
+
+🗄️ Experienced with **MySQL and PostgreSQL**, including database design and data management.
+
+🚀 Passionate about solving problems, learning new technologies, and building scalable applications.
 
 ---
 
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=chandraprashant482&icon=0&color=0)
+# 🧠 Tech Stack
+
+### ☕ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+
+</div>
+
+### ⚛️ Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+</div>
+
+### 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</div>
+
+### ☁️ Cloud & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,netlify" />
+
+</div>
+
+### 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+
+</div>
 
 ---
 
-⭐ *"Always learning, always building."*
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chandraprashant482&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprashant482&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chandraprashant482&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprashant482&theme=tokyo-night&hide_border=true&radius=15" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandraprashant482&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=chandraprashant482&icon=0&color=0" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Always Learning. Always Building. Always Improving."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer" />
+
+</div>
