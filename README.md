@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Prashant Chandra**
+# 👋 Hey, I'm **Prashant**
 
 ### 💻 Java Developer • Spring Boot • REST APIs • React
 
